@@ -10,6 +10,7 @@ Netspeed Module
 
 # 特别鸣谢
 感谢SmallSO Labs.的小云云帮忙写的NetSpeed 模块  
+小云云的博客:https://www.xiaoyy.org 欢迎访问
   
 我的博客:https://www.xiaoyiblog.cc  
 欢迎访问  
